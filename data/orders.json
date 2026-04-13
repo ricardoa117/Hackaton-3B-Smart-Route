@@ -1,0 +1,217 @@
+{
+  "pallet_standard": { "width_mm": 800, "length_mm": 1200 },
+  "warehouse": {
+    "warehouse_id": "CEDIS_CDMX_01",
+    "lat": 19.37194,
+    "lon": -99.08475
+  },
+  "orders": [
+    {
+      "order_id": "ORDER_001",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_001",
+          "pallets": [
+            { "sku": 23322, "units": 60 },
+            { "sku": 29257, "units": 120 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_002",
+          "pallets": [
+            { "sku": 7746, "units": 80 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_002",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_003",
+          "pallets": [
+            { "sku": 3604, "units": 150 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_004",
+          "pallets": [
+            { "sku": 24225, "units": 200 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_005",
+          "pallets": [
+            { "sku": 26447, "units": 90 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_003",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_006",
+          "pallets": [
+            { "sku": 24338, "units": 70 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_007",
+          "pallets": [
+            { "sku": 15147, "units": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_004",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_008",
+          "pallets": [
+            { "sku": 27952, "units": 110 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_009",
+          "pallets": [
+            { "sku": 22287, "units": 130 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_010",
+          "pallets": [
+            { "sku": 26446, "units": 55 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_005",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_011",
+          "pallets": [
+            { "sku": 24444, "units": 30 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_012",
+          "pallets": [
+            { "sku": 7746, "units": 90 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_006",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_013",
+          "pallets": [
+            { "sku": 3604, "units": 180 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_014",
+          "pallets": [
+            { "sku": 29257, "units": 100 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_015",
+          "pallets": [
+            { "sku": 24225, "units": 160 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_016",
+          "pallets": [
+            { "sku": 23322, "units": 50 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_007",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_017",
+          "pallets": [
+            { "sku": 23838, "units": 20 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_018",
+          "pallets": [
+            { "sku": 24338, "units": 75 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_008",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_019",
+          "pallets": [
+            { "sku": 26447, "units": 95 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_020",
+          "pallets": [
+            { "sku": 22287, "units": 140 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_001",
+          "pallets": [
+            { "sku": 7746, "units": 60 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_009",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_004",
+          "pallets": [
+            { "sku": 29257, "units": 110 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_006",
+          "pallets": [
+            { "sku": 3604, "units": 140 }
+          ]
+        }
+      ]
+    },
+    {
+      "order_id": "ORDER_010",
+      "deliveries": [
+        {
+          "store_id": "3B_CDMX_009",
+          "pallets": [
+            { "sku": 26446, "units": 60 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_012",
+          "pallets": [
+            { "sku": 24225, "units": 180 }
+          ]
+        },
+        {
+          "store_id": "3B_CDMX_015",
+          "pallets": [
+            { "sku": 23322, "units": 70 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "store_id": "3B_CDMX_001",
+    "name": "Tiendas 3B Centro Histórico",
+    "address": "Calle República de Uruguay 45, Centro",
+    "borough": "Cuauhtémoc",
+    "lat": 19.42847,
+    "lon": -99.13257,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_002",
+    "name": "Tiendas 3B Doctores",
+    "address": "Dr. Andrade 102, Doctores",
+    "borough": "Cuauhtémoc",
+    "lat": 19.42112,
+    "lon": -99.14331,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_003",
+    "name": "Tiendas 3B Roma Norte",
+    "address": "Av. Chapultepec 284, Roma Norte",
+    "borough": "Cuauhtémoc",
+    "lat": 19.41782,
+    "lon": -99.15991,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_004",
+    "name": "Tiendas 3B Condesa",
+    "address": "Av. Michoacán 77, Condesa",
+    "borough": "Cuauhtémoc",
+    "lat": 19.41164,
+    "lon": -99.16943,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_005",
+    "name": "Tiendas 3B Guerrero",
+    "address": "Eje 1 Norte Mosqueta 56, Guerrero",
+    "borough": "Cuauhtémoc",
+    "lat": 19.44537,
+    "lon": -99.14782,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_006",
+    "name": "Tiendas 3B Narvarte",
+    "address": "Av. Universidad 930, Narvarte",
+    "borough": "Benito Juárez",
+    "lat": 19.39371,
+    "lon": -99.15788,
+    "region_id": 3,
+    "region_name": "Región Sur"
+  },
+  {
+    "store_id": "3B_CDMX_007",
+    "name": "Tiendas 3B Del Valle",
+    "address": "Félix Cuevas 301, Del Valle",
+    "borough": "Benito Juárez",
+    "lat": 19.37194,
+    "lon": -99.16402,
+    "region_id": 3,
+    "region_name": "Región Sur"
+  },
+  {
+    "store_id": "3B_CDMX_008",
+    "name": "Tiendas 3B Portales",
+    "address": "Eje Central Lázaro Cárdenas 1180, Portales",
+    "borough": "Benito Juárez",
+    "lat": 19.35829,
+    "lon": -99.14974,
+    "region_id": 3,
+    "region_name": "Región Sur"
+  },
+  {
+    "store_id": "3B_CDMX_009",
+    "name": "Tiendas 3B Tacubaya",
+    "address": "Av. Jalisco 89, Tacubaya",
+    "borough": "Miguel Hidalgo",
+    "lat": 19.40213,
+    "lon": -99.18871,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_010",
+    "name": "Tiendas 3B Polanco",
+    "address": "Calz. General Mariano Escobedo 425, Polanco",
+    "borough": "Miguel Hidalgo",
+    "lat": 19.43491,
+    "lon": -99.18954,
+    "region_id": 1,
+    "region_name": "Región Centro"
+  },
+  {
+    "store_id": "3B_CDMX_011",
+    "name": "Tiendas 3B Anáhuac",
+    "address": "Lago Alberto 210, Anáhuac",
+    "borough": "Miguel Hidalgo",
+    "lat": 19.45102,
+    "lon": -99.18083,
+    "region_id": 2,
+    "region_name": "Región Norte"
+  },
+  {
+    "store_id": "3B_CDMX_012",
+    "name": "Tiendas 3B Santa María la Ribera",
+    "address": "Sabino 312, Santa María la Ribera",
+    "borough": "Cuauhtémoc",
+    "lat": 19.45188,
+    "lon": -99.15426,
+    "region_id": 2,
+    "region_name": "Región Norte"
+  },
+  {
+    "store_id": "3B_CDMX_013",
+    "name": "Tiendas 3B Lindavista",
+    "address": "Av. Instituto Politécnico Nacional 620, Lindavista",
+    "borough": "Gustavo A. Madero",
+    "lat": 19.49761,
+    "lon": -99.12734,
+    "region_id": 2,
+    "region_name": "Región Norte"
+  },
+  {
+    "store_id": "3B_CDMX_014",
+    "name": "Tiendas 3B Vallejo",
+    "address": "Poniente 128 445, Industrial Vallejo",
+    "borough": "Azcapotzalco",
+    "lat": 19.48622,
+    "lon": -99.15549,
+    "region_id": 2,
+    "region_name": "Región Norte"
+  },
+  {
+    "store_id": "3B_CDMX_015",
+    "name": "Tiendas 3B Azcapotzalco Centro",
+    "address": "Av. Azcapotzalco 198, Centro de Azcapotzalco",
+    "borough": "Azcapotzalco",
+    "lat": 19.48401,
+    "lon": -99.18567,
+    "region_id": 2,
+    "region_name": "Región Norte"
+  },
+  {
+    "store_id": "3B_CDMX_016",
+    "name": "Tiendas 3B Iztacalco",
+    "address": "Av. Plutarco Elías Calles 900, Iztacalco",
+    "borough": "Iztacalco",
+    "lat": 19.39564,
+    "lon": -99.09421,
+    "region_id": 3,
+    "region_name": "Región Oriente"
+  },
+  {
+    "store_id": "3B_CDMX_017",
+    "name": "Tiendas 3B Agrícola Oriental",
+    "address": "Sur 16 245, Agrícola Oriental",
+    "borough": "Iztacalco",
+    "lat": 19.40377,
+    "lon": -99.06954,
+    "region_id": 3,
+    "region_name": "Región Oriente"
+  },
+  {
+    "store_id": "3B_CDMX_018",
+    "name": "Tiendas 3B Iztapalapa Centro",
+    "address": "Calz. Ermita Iztapalapa 1080, Iztapalapa",
+    "borough": "Iztapalapa",
+    "lat": 19.35644,
+    "lon": -99.08293,
+    "region_id": 3,
+    "region_name": "Región Oriente"
+  },
+  {
+    "store_id": "3B_CDMX_019",
+    "name": "Tiendas 3B Santa Cruz Meyehualco",
+    "address": "Av. Guelatao 55, Santa Cruz Meyehualco",
+    "borough": "Iztapalapa",
+    "lat": 19.37092,
+    "lon": -99.03387,
+    "region_id": 3,
+    "region_name": "Región Oriente"
+  },
+  {
+    "store_id": "3B_CDMX_020",
+    "name": "Tiendas 3B Tláhuac",
+    "address": "Av. Tláhuac 6023, Los Olivos",
+    "borough": "Tláhuac",
+    "lat": 19.29673,
+    "lon": -99.01756,
+    "region_id": 3,
+    "region_name": "Región Oriente"
+  }
+]

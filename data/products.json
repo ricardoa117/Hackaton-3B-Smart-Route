@@ -1,0 +1,142 @@
+[
+  {
+    "src_product_id": 3604,
+    "product_name": "Pan Dulce Polvorones Don Tono",
+    "presentation": "120 gr",
+    "barcode": 7501391685126,
+    "product_type": "MC",
+    "line_name": "Pan Dulce",
+    "group_name": "Breakfast",
+    "iventa": 7
+  },
+  {
+    "src_product_id": 21136,
+    "product_name": "Pan Dulce Rellenitos Chocolate Rifel",
+    "presentation": "152 gr",
+    "barcode": 7500326929342,
+    "product_type": "MC",
+    "line_name": "Pan Dulce",
+    "group_name": "Bakery",
+    "iventa": 1
+  },
+  {
+    "src_product_id": 27952,
+    "product_name": "Botana Papa Sal Totis",
+    "presentation": "90 gr",
+    "barcode": 7500366003941,
+    "product_type": "MC",
+    "line_name": "Frituras",
+    "group_name": "Snacks",
+    "iventa": 1
+  },
+  {
+    "src_product_id": 29257,
+    "product_name": "Botana Donitas Limon Sal Masterchips",
+    "presentation": "200 gr",
+    "barcode": 7502261276550,
+    "product_type": "MP",
+    "line_name": "Frituras",
+    "group_name": "Snacks",
+    "iventa": 25
+  },
+  {
+    "src_product_id": 26447,
+    "product_name": "Bebida Fresa-Kiwi Nebraska",
+    "presentation": "460 ml",
+    "barcode": 7502261273481,
+    "product_type": "MP",
+    "line_name": "Jugos y Bebidas",
+    "group_name": "Beverages",
+    "iventa": 14
+  },
+  {
+    "src_product_id": 24338,
+    "product_name": "Bebida Naranja Sun Paradise",
+    "presentation": "900 ml",
+    "barcode": 7502261269576,
+    "product_type": "MP",
+    "line_name": "Jugos y Bebidas",
+    "group_name": "Beverages",
+    "iventa": 18
+  },
+  {
+    "src_product_id": 23322,
+    "product_name": "Refresco Cola Sin Azucar Sisi",
+    "presentation": "2000 ml",
+    "barcode": 7502261274679,
+    "product_type": "MP",
+    "line_name": "Refrescos",
+    "group_name": "Beverages",
+    "iventa": 22
+  },
+  {
+    "src_product_id": 22287,
+    "product_name": "Refresco Cola Sin Azucar Sisi",
+    "presentation": "355 ml",
+    "barcode": 7502261272415,
+    "product_type": "MP",
+    "line_name": "Refrescos",
+    "group_name": "Beverages",
+    "iventa": 11
+  },
+  {
+    "src_product_id": 7746,
+    "product_name": "Agua Natural Burst",
+    "presentation": "1500 ml",
+    "barcode": 7502261250185,
+    "product_type": "MP",
+    "line_name": "Agua Natural",
+    "group_name": "Water",
+    "iventa": 6
+  },
+  {
+    "src_product_id": 24225,
+    "product_name": "Agua Natural Burst",
+    "presentation": "500 ml",
+    "barcode": 7502261271166,
+    "product_type": "MP",
+    "line_name": "Agua Natural",
+    "group_name": "Water",
+    "iventa": 3
+  },
+  {
+    "src_product_id": 24444,
+    "product_name": "Agua Natural Burst",
+    "presentation": "5000 ml",
+    "barcode": 7502261271357,
+    "product_type": "MP",
+    "line_name": "Agua Natural",
+    "group_name": "Water",
+    "iventa": 19
+  },
+  {
+    "src_product_id": 26446,
+    "product_name": "Bebida Energetica Sandia Burst Energy",
+    "presentation": "473 ml",
+    "barcode": 7502261273474,
+    "product_type": "MP",
+    "line_name": "Energetica Isotonica",
+    "group_name": "Beverages",
+    "iventa": 5
+  },
+  {
+    "src_product_id": 15147,
+    "product_name": "Bebida Energetica Mora Energy Big Burst",
+    "presentation": "473 ml",
+    "barcode": 7502261261891,
+    "product_type": "MP",
+    "line_name": "Energetica Isotonica",
+    "group_name": "Beverages",
+    "iventa": 1
+  },
+  {
+    "src_product_id": 23838,
+    "product_name": "Agua Natural Burst",
+    "presentation": "10 lt",
+    "barcode": 17502261269545,
+    "product_type": "MP",
+    "line_name": "Agua Natural",
+    "group_name": "Water",
+    "iventa": 29
+  }
+]

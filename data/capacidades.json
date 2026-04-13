@@ -1,0 +1,4 @@
+[
+  { "tipo": "Torton", "unidades": 3,  "cap_peso_kg": 8000, "cap_vol_m3": 45, "costo": 12000.0 },
+  { "tipo": "Camión",  "unidades": 15, "cap_peso_kg": 1500, "cap_vol_m3": 12, "costo": 3000.0 }
+]

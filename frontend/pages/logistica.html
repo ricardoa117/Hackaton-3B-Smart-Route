@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vista de Logística - Hackathon</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Mapbox GL JS -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css' rel='stylesheet' />
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="../css/global.css">
+    <!-- Logística CSS -->
+    <link rel="stylesheet" href="../css/logistica.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
+        <div class="container">
+            <a class="navbar-brand" href="./index.html">🚚 Tiendas 3B</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="./logistica.html">📍 Logística</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./tienda.html">🏪 Tienda</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">📍 Vista de Logística</h1>
+
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <div class="map-container mb-3">
+                    <div id="map"></div>
+                </div>
+                <div class="route-info">
+                    <div class="route-card">
+                        <button id="btn_generar_rutas" class="btn btn-lg btn-primary w-100">Optimizar Rutas del Día</button>
+                    </div>
+                    
+                    <div class="route-card bg-success text-white mt-3" id="panel-finanzas" style="display: none;">
+                        <h5 class="mb-2">💰 Costo Total de Operación</h5>
+                        <h2 id="costo-operacion" class="fw-bold">$0.00 MXN</h2>
+                        <p id="vehiculos-desplegados" class="mb-0">0 vehículos desplegados</p>
+                    </div>
+
+                    <div class="route-card mt-3">
+                        <h5>Estado del Sistema</h5>
+                        <p id="route-status" class="mb-1 text-muted">Esperando inicio de operaciones...</p>
+                        <div id="lista-rutas" class="mt-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--
+    <footer class="text-center mt-5 pb-3">
+        <p class="text-muted">Para usar el mapa, configura tu token de Mapbox en js/logistica.js</p>
+    </footer>
+--> 
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Utils JS -->
+    <script src="../js/utils.js"></script>
+    <!-- Logística JS -->
+    <script src="../js/logistica.js"></script>
+</body>
+</html>

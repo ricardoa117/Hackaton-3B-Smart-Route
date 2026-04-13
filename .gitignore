@@ -1,0 +1,42 @@
+# ============================================================
+# .gitignore — Proyecto Hackathon 3B (Tiendas 3B Logística)
+# ============================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# --- Variables de entorno (¡SECRETOS!) ---
+.env
+*.env.local
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Archivos del proyecto a excluir ---
+hackyardigans.zip
+*.zip
+
+# --- Logs ---
+*.log
